@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DoAn.OTo.Api.props" />
+</Project>

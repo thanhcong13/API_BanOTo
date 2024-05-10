@@ -1,0 +1,207 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Đồ án tốt nghiệp\\BanOTo\\DoAn.OTo.Api\\DoAn.OTo.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Đồ án tốt nghiệp\\BanOTo\\DoAn.OTo.Api\\DoAn.OTo.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Đồ án tốt nghiệp\\BanOTo\\DoAn.OTo.Api\\DoAn.OTo.Api.csproj",
+        "projectName": "DoAn.OTo.Api",
+        "projectPath": "D:\\Đồ án tốt nghiệp\\BanOTo\\DoAn.OTo.Api\\DoAn.OTo.Api.csproj",
+        "packagesPath": "C:\\Users\\nguyencongthanh\\.nuget\\packages\\",
+        "outputPath": "D:\\Đồ án tốt nghiệp\\BanOTo\\DoAn.OTo.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nguyencongthanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Đồ án tốt nghiệp\\BanOTo\\DoAn.OTo.Core\\DoAn.OTo.Core.csproj": {
+                "projectPath": "D:\\Đồ án tốt nghiệp\\BanOTo\\DoAn.OTo.Core\\DoAn.OTo.Core.csproj"
+              },
+              "D:\\Đồ án tốt nghiệp\\BanOTo\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj": {
+                "projectPath": "D:\\Đồ án tốt nghiệp\\BanOTo\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Đồ án tốt nghiệp\\BanOTo\\DoAn.OTo.Core\\DoAn.OTo.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Đồ án tốt nghiệp\\BanOTo\\DoAn.OTo.Core\\DoAn.OTo.Core.csproj",
+        "projectName": "DoAn.OTo.Core",
+        "projectPath": "D:\\Đồ án tốt nghiệp\\BanOTo\\DoAn.OTo.Core\\DoAn.OTo.Core.csproj",
+        "packagesPath": "C:\\Users\\nguyencongthanh\\.nuget\\packages\\",
+        "outputPath": "D:\\Đồ án tốt nghiệp\\BanOTo\\DoAn.OTo.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nguyencongthanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Đồ án tốt nghiệp\\BanOTo\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Đồ án tốt nghiệp\\BanOTo\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj",
+        "projectName": "DoAn.OTo.Infrastrure",
+        "projectPath": "D:\\Đồ án tốt nghiệp\\BanOTo\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj",
+        "packagesPath": "C:\\Users\\nguyencongthanh\\.nuget\\packages\\",
+        "outputPath": "D:\\Đồ án tốt nghiệp\\BanOTo\\DoAn.OTo.Infrastrure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nguyencongthanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Đồ án tốt nghiệp\\BanOTo\\DoAn.OTo.Core\\DoAn.OTo.Core.csproj": {
+                "projectPath": "D:\\Đồ án tốt nghiệp\\BanOTo\\DoAn.OTo.Core\\DoAn.OTo.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.3.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
