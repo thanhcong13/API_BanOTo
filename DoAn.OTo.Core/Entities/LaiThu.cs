@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DoAn.OTo.Core.BuidAttribute;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,7 @@ namespace DoAn.OTo.Core.Entities
 {
     public class LaiThu
     {
+        [PrimaryKey]
         public Guid MaLT { get; set; }
         public string TenKH { get; set; }
         public string EmailKH { get; set; }
