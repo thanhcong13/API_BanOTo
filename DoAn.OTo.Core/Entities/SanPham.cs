@@ -31,7 +31,8 @@ namespace DoAn.OTo.Core.Entities
         public int? SoGhe { get; set; }
         public float? DungTich { get; set;}
         public string? LoaiHopSo { get; set; }
+        public string? TinhTrang { get; set; }
 
-        
+
     }
 }

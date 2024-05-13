@@ -58,6 +58,9 @@ namespace DoAn.OTo.Api
             builder.Services.AddScoped<ICTHoaDonRepository, CTHoaDonRepository>();
             builder.Services.AddScoped<ICTHoaDonService, CTHoaDonService>();
 
+            builder.Services.AddScoped<ISanPhamDaBanRepository, SanPhamDaBanRepository>();
+            builder.Services.AddScoped<ISanPhaDaBanService, SanPhamDaBanService>();
+
             builder.Services.AddScoped(typeof(IBaseRepository<>),typeof(BaseRepository<>));
             builder.Services.AddScoped(typeof(IBaseService<>),typeof(BaseService<>));
 
